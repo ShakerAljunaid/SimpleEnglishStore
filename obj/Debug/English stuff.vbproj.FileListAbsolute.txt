@@ -1,0 +1,19 @@
+D:\Ready files\V.B\Ultimate Englsih with all features\bin\Debug\WindowsApplication1.exe.config
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.exe
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.xml
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.pdb
+D:\Ready files\V.B\Ultimate Englsih with all features\bin\Debug\Source.accdb
+D:\Ready files\V.B\Ultimate Englsih with all features\bin\Debug\WindowsApplication1.exe
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.UserControl1.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.Words.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.Grammar.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.Resources.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.Tips.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English stuff.vbproj.GenerateResource.Cache
+D:\Ready files\V.B\Ultimate Englsih with all features\bin\Debug\English stuff.exe.config
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English.UserControl1.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English.Words.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English.Grammar.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English.Resources.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English.Tips.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\English.Resource1.resources

@@ -1,0 +1,18 @@
+C:\Final English\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Final English\WindowsApplication1\bin\Debug\Source.accdb
+C:\Final English\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.Words.resources
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.Grammar.resources
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.Tips.resources
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Final English\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Final English\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Final English\WindowsApplication1\obj\Debug\WindowsApplication1.UserControl1.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\bin\Debug\WindowsApplication1.exe.config
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.exe
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.xml
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Debug\WindowsApplication1.pdb

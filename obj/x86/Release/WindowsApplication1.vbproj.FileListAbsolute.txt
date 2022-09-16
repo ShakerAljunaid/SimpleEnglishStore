@@ -1,0 +1,13 @@
+C:\Final English\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+C:\Final English\WindowsApplication1\bin\Release\Source.accdb
+C:\Final English\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Final English\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Final English\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.Words.resources
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.Grammar.resources
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.Tips.resources
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Final English\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb

@@ -1,0 +1,7 @@
+D:\Ready files\V.B\Ultimate Englsih with all features\bin\Release\English stuff.exe.config
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Release\English.UserControl1.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Release\English.Words.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Release\English.Grammar.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Release\English.Resources.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Release\English.Tips.resources
+D:\Ready files\V.B\Ultimate Englsih with all features\obj\Release\English stuff.vbproj.GenerateResource.Cache
